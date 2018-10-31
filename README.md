@@ -7,7 +7,7 @@ In this assignment I made a dialog system in Unreal Engine 4.
 - Unreal Engine 4
 
 ## Software analysis 
-I decided to do this project in UE4 since I want to get better with blueprints.
+I decided to do this project in UE4 since I want to get better with blueprints. and blueprints are easy to edit for everyone (artists and programmers).
 
 ## Learning Goals 
 - How to use the UE4 engine
