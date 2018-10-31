@@ -1,0 +1,642 @@
+﻿Log file open, 10/31/18 19:37:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Dialogue
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.453162
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.179s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.31-18.37.51:875][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.31-18.37.51:876][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.31-18.37.51:896][  0]LogHAL: Display: Platform has ~ 16 GB [17100603392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.31-18.37.51:898][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.31-18.37.51:899][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.31-18.37.51:906][  0]LogInit: Computer: DESKTOP-KQTAD4O
+[2018.10.31-18.37.51:906][  0]LogInit: User: Jerry
+[2018.10.31-18.37.51:906][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.10.31-18.37.51:906][  0]LogInit: High frequency timer resolution =3.117187 MHz
+[2018.10.31-18.37.51:906][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.31-18.37.51:906][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.31-18.37.51:906][  0]LogMemory: Process Physical Memory: 101.25 MB used, 101.25 MB peak
+[2018.10.31-18.37.51:906][  0]LogMemory: Process Virtual Memory: 85.82 MB used, 85.82 MB peak
+[2018.10.31-18.37.51:906][  0]LogMemory: Physical Memory: 4994.11 MB used,  11314.30 MB free, 16308.41 MB total
+[2018.10.31-18.37.51:906][  0]LogMemory: Virtual Memory: 4657.16 MB used,  11314.30 MB free, 134217728.00 MB total
+[2018.10.31-18.37.52:395][  0]LogInit: Using OS detected language (nl-NL).
+[2018.10.31-18.37.52:395][  0]LogInit: Using OS detected locale (nl-NL).
+[2018.10.31-18.37.52:404][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2018.10.31-18.37.52:774][  0]LogStreaming: Display: Took  0.380s to InitEngineTextLocalization.
+[2018.10.31-18.37.52:775][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.31-18.37.52:885][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.31-18.37.52:885][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.31-18.37.54:708][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.31-18.37.54:708][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.31-18.37.54:759][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.10.31-18.37.54:759][  0]LogD3D11RHI:       11127/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.31-18.37.54:763][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.31-18.37.54:763][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.31-18.37.54:763][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.31-18.37.54:771][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.31-18.37.54:771][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.31-18.37.54:771][  0]LogWindows: EnumDisplayDevices:
+[2018.10.31-18.37.54:771][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.10.31-18.37.54:771][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.10.31-18.37.54:771][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.10.31-18.37.54:772][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.10.31-18.37.54:772][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.31-18.37.54:772][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.10.31-18.37.54:772][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2018.10.31-18.37.54:772][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2018.10.31-18.37.54:772][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.10.31-18.37.54:814][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.31-18.37.54:891][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.31-18.37.54:957][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Intermediate/Shaders/WorkingDirectory/4868/).
+[2018.10.31-18.37.54:957][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jerry/AppData/Local/Temp/UnrealShaderWorkingDir/1273D3194BB06FA238468A894F75CF67/'.
+[2018.10.31-18.37.55:249][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.31-18.37.55:262][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.31-18.37.55:274][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.31-18.37.55:286][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.31-18.37.55:303][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.31-18.37.55:318][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.31-18.37.55:331][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.31-18.37.55:343][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.31-18.37.55:351][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:420][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.31-18.37.55:431][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.31-18.37.55:503][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.31-18.37.55:503][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.31-18.37.55:522][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.31-18.37.55:522][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.31-18.37.55:534][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.31-18.37.55:547][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.31-18.37.55:560][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.31-18.37.55:579][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.31-18.37.55:589][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.31-18.37.55:589][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.31-18.37.55:781][  0]LogXGEController: Cleaning working directory: C:/Users/Jerry/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.31-18.37.55:782][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.31-18.37.55:782][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.31-18.37.55:782][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.31-18.37.57:399][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.31-18.37.57:732][  0]LogDerivedDataCache: Loaded boot cache 0.33s 72MB C:/Users/Jerry/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.31-18.37.57:733][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jerry/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.31-18.37.57:733][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.31-18.37.57:733][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.31-18.37.57:733][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.31-18.37.57:733][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.31-18.37.57:755][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.31-18.37.57:769][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jerry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.31-18.37.57:769][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.31-18.37.57:769][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.31-18.37.57:789][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.31-18.37.57:800][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.31-18.37.57:815][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.31-18.37.58:081][  0]LogAssetRegistry: FAssetRegistry took 0.0309 seconds to start up
+[2018.10.31-18.37.58:725][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.31-18.37.59:180][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.31-18.37.59:213][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.31-18.37.59:213][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.31-18.37.59:215][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.31-18.37.59:215][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.31-18.37.59:299][  0]LogNetVersion: Dialogue 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2083427735)
+[2018.10.31-18.38.00:666][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.059479 seconds
+[2018.10.31-18.38.00:673][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.31-18.38.00:673][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.31-18.38.00:673][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.31-18.38.04:277][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.31-18.38.04:297][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.31-18.38.04:701][  0]SourceControl: Source control is disabled
+[2018.10.31-18.38.04:701][  0]SourceControl: Source control is disabled
+[2018.10.31-18.38.04:726][  0]SourceControl: Source control is disabled
+[2018.10.31-18.38.04:735][  0]SourceControl: Source control is disabled
+[2018.10.31-18.38.05:168][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.31-18.38.05:832][  0]LogOcInput: OculusInput pre-init called
+[2018.10.31-18.38.08:164][  0]LogEngine: Initializing Engine...
+[2018.10.31-18.38.08:168][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.31-18.38.08:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.31-18.38.08:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.31-18.38.08:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.31-18.38.08:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.31-18.38.08:528][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.31-18.38.08:599][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.31-18.38.08:638][  0]LogInit: XAudio2 using 'Luidsprekers (2- Strix DSP)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.31-18.38.08:651][  0]LogInit: FAudioDevice initialized.
+[2018.10.31-18.38.08:651][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.31-18.38.08:926][  0]LogDerivedDataCache: Saved boot cache 0.27s 72MB C:/Users/Jerry/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.31-18.38.08:928][  0]LogInit: Texture streaming: Enabled
+[2018.10.31-18.38.08:960][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.31-18.38.08:960][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={7103E969-41F7-160E-44D7-E1A3348A1F5C}
+[2018.10.31-18.38.08:985][  0]LogInit: Transaction tracking system initialized
+[2018.10.31-18.38.09:076][  0]BlueprintLog: New page: Editor Load
+[2018.10.31-18.38.09:492][  0]LocalizationService: Localization service is disabled
+[2018.10.31-18.38.11:234][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/' took 0.03s
+[2018.10.31-18.38.11:234][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.31-18.38.11:242][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.31-18.38.11:243][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.31-18.38.11:243][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.31-18.38.11:243][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.31-18.38.11:243][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.31-18.38.11:243][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.31-18.38.12:729][  0]SourceControl: Source control is disabled
+[2018.10.31-18.38.12:850][  0]LogSlate: Took 0.006210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.31-18.38.25:868][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.10.31-18.38.25:868][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.38.25:870][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.38.30:273][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.10.31-18.38.30:274][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.38.30:276][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.31-18.38.30:347][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.31-18.38.30:348][  0]LightingResults: New page: Lighting Build
+[2018.10.31-18.38.30:362][  0]MapCheck: New page: Map Check
+[2018.10.31-18.38.30:362][  0]LightingResults: New page: Lighting Build
+[2018.10.31-18.38.30:940][  0]LogBlueprint: Error: [Compiler TextRenderActor] Default value '' for  Button Text  is invalid: 'Array inputs (like 'Button Text') must have an input wired into them (try connecting a MakeArray node).'
+[2018.10.31-18.38.30:940][  0]LogBlueprint: Warning: [Compiler TextRenderActor] [0045,09] Compile of TextRenderActor failed. 1 Fatal Issue(s) 0 Warning(s) [in 9 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-18.38.31:290][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.31-18.38.31:348][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.31-18.38.31:382][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.31-18.38.31:451][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68,887ms to complete.
+[2018.10.31-18.38.31:451][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.105
+[2018.10.31-18.38.31:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-18.38.31:586][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-18.38.31:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-18.38.31:595][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-18.38.31:619][  0]LogCollectionManager: Loaded 0 collections in 0.001718 seconds
+[2018.10.31-18.38.31:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Collections/' took 0.01s
+[2018.10.31-18.38.31:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Developers/Jerry/Collections/' took 0.01s
+[2018.10.31-18.38.31:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Collections/' took 0.01s
+[2018.10.31-18.38.31:691][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.31-18.38.31:708][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2621 classes and 629 folders.
+[2018.10.31-18.38.31:725][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.31-18.38.32:220][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.31-18.38.32:238][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.31-18.38.32:325][  0]LogSlate: Took 0.005850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.31-18.38.32:338][  0]LogSlate: Took 0.006328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.31-18.38.32:482][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.31-18.38.32:625][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.31-18.38.32:625][  0]LogLoad: (Engine Initialization) Total time: 46.78 seconds
+[2018.10.31-18.38.32:626][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.31-18.38.32:657][  0]LogAssetRegistry: Asset discovery search completed in 34.5998 seconds
+[2018.10.31-18.38.32:658][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.31-18.38.32:658][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2018.10.31-18.38.32:673][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.31-18.38.32:725][  0]LogSlate: Took 0.006667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.31-18.38.33:650][107]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.31-18.38.35:558][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-18.38.38:080][635]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor
+[2018.10.31-18.38.38:655][635]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.10.31-18.38.39:378][635]LogSlate: Took 0.003838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.31-18.38.40:870][782]LogSlate: Took 0.005931 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.31-18.41.44:481][254]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-18.47.35:126][951]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-18.47.35:694][989]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-18.49.33:153][891]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-18.53.22:926][ 94]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/ThirdPersonExampleMap_Auto10393542F486C69D84E80C389FDD941DF.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.10.31-18.53.22:932][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.178
+[2018.10.31-18.53.22:932][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.178
+[2018.10.31-18.53.22:939][ 94]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/TextRenderActor] ([1] browsable assets)...
+[2018.10.31-18.53.22:939][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/TextRenderActor]
+[2018.10.31-18.53.23:001][ 94]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor_Auto18D154A3B416539DD306954B7F728C2A7.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/TextRenderActor_Auto1.uasset'
+[2018.10.31-18.53.23:003][ 94]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.10.31-18.58.34:598][194]LogEditorTransaction: Undo Move Node
+[2018.10.31-18.58.36:012][336]LogEditorTransaction: Undo Paste clipboard contents
+[2018.10.31-18.59.21:697][791]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.EdGraphNode_Comment_2 or EdGraphNode_Comment /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.EdGraphNode_Comment_2
+[2018.10.31-18.59.25:072][180]LogEditorTransaction: Undo Move Nodes
+[2018.10.31-18.59.30:595][803]LogEditorTransaction: Undo Paste clipboard contents
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_IfThenElse_0 or K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_IfThenElse_0
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_3 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_3
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_10 or K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_10
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_IfThenElse_1
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_34 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_34
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_11 or K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_11
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_13 or K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_13
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_12 or K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_12
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_IfThenElse_2 or K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_IfThenElse_2
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_IfThenElse_3 or K2Node_IfThenElse /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_IfThenElse_3
+[2018.10.31-18.59.56:501][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_15 or K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_15
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_37 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_37
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_38 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_38
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_16 or K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_16
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_39 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_39
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_14 or K2Node_CallFunction /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_CallFunction_14
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_35 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_35
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_41 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_41
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_42 or K2Node_VariableGet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableGet_42
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableSet_1 or K2Node_VariableSet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableSet_1
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableSet_3 or K2Node_VariableSet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableSet_3
+[2018.10.31-18.59.56:502][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableSet_5 or K2Node_VariableSet /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_VariableSet_5
+[2018.10.31-18.59.56:503][854]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Knot /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_Knot_3 or K2Node_Knot /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.K2Node_Knot_3
+[2018.10.31-19.00.53:335][534]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.EdGraphNode_Comment_2 or EdGraphNode_Comment /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor:EventGraph.EdGraphNode_Comment_2
+[2018.10.31-19.02.36:506][237]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor6CA14D99427AF55FFD266B952DB0A186.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Blueprints/TextRenderActor.uasset'
+[2018.10.31-19.02.37:726][358]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.03.15:277][683]LogEditorTransaction: Undo Move Node
+[2018.10.31-19.03.15:826][718]LogEditorTransaction: Undo Move Node
+[2018.10.31-19.03.16:396][770]LogEditorTransaction: Undo Create Pin Link
+[2018.10.31-19.05.12:429][981]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/ThirdPersonExampleMap_Auto2179ACEE045DF5E1068B892AB595D60C8.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.10.31-19.05.12:439][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.172
+[2018.10.31-19.05.12:439][981]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.172
+[2018.10.31-19.05.12:444][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/TextRenderActor] ([1] browsable assets)...
+[2018.10.31-19.05.12:444][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/TextRenderActor]
+[2018.10.31-19.05.12:527][981]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor_Auto26ED17A6D43FA824C031F149C14360EEC.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/TextRenderActor_Auto2.uasset'
+[2018.10.31-19.05.12:528][981]LogFileHelpers: Auto-saving content packages took 0.085
+[2018.10.31-19.07.36:211][910]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.08.56:750][398]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.09.36:495][979]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.10.50:760][604]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.10.50:818][604]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.10.50:818][604]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.10.50:818][604]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.10.50:818][604]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.10.50:818][604]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.10.50:818][604]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.10.50:819][604]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.10.50:954][604]LogBlueprint: Warning: [Compiler TextRenderActor] [1985,11] Compile of TextRenderActor failed. 7 Fatal Issue(s) 0 Warning(s) [in 194 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.12.10:671][ 60]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.12.10:732][ 60]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.12.10:732][ 60]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.12.10:732][ 60]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.12.10:732][ 60]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.12.10:732][ 60]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.12.10:732][ 60]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.12.10:876][ 60]LogBlueprint: Warning: [Compiler TextRenderActor] [2065,03] Compile of TextRenderActor failed. 6 Fatal Issue(s) 0 Warning(s) [in 204 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.13.11:234][170]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.13.11:294][170]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.13.11:294][170]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.13.11:294][170]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.13.11:294][170]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.13.11:294][170]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.13.11:436][170]LogBlueprint: Warning: [Compiler TextRenderActor] [2125,59] Compile of TextRenderActor failed. 5 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.14.35:923][211]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.14.35:984][211]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.14.35:984][211]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.14.35:984][211]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.14.35:984][211]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.14.36:128][211]LogBlueprint: Warning: [Compiler TextRenderActor] [2210,28] Compile of TextRenderActor failed. 4 Fatal Issue(s) 0 Warning(s) [in 206 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.15.01:335][197]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor25F27142412D74FC576E31A3144E3C3E.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Blueprints/TextRenderActor.uasset'
+[2018.10.31-19.15.02:191][298]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.15.02:252][298]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.15.02:252][298]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.15.02:252][298]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.15.02:252][298]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.15.02:392][298]LogBlueprint: Warning: [Compiler TextRenderActor] [2236,55] Compile of TextRenderActor failed. 4 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.15.34:756][959]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/ThirdPersonExampleMap_Auto3DF32B6D54526C5A57B2BE3A8B50766A6.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2018.10.31-19.15.34:759][959]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.157
+[2018.10.31-19.15.34:759][959]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.157
+[2018.10.31-19.15.34:765][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/TextRenderActor] ([1] browsable assets)...
+[2018.10.31-19.15.34:765][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/TextRenderActor]
+[2018.10.31-19.15.34:848][959]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor_Auto32AF1FA844DBCB545A03A93BBFAFA2380.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/TextRenderActor_Auto3.uasset'
+[2018.10.31-19.15.34:851][959]LogFileHelpers: Auto-saving content packages took 0.087
+[2018.10.31-19.15.48:346][500]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.15.48:407][500]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.15.48:407][500]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.15.48:407][500]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.15.48:551][500]LogBlueprint: Warning: [Compiler TextRenderActor] [2282,71] Compile of TextRenderActor failed. 3 Fatal Issue(s) 0 Warning(s) [in 205 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.16.03:679][284]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor7E888D9E4B50F22991B080A093D136DF.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Blueprints/TextRenderActor.uasset'
+[2018.10.31-19.16.04:675][401]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.16.04:737][401]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.04:737][401]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.04:737][401]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.04:877][401]LogBlueprint: Warning: [Compiler TextRenderActor] [2299,03] Compile of TextRenderActor failed. 3 Fatal Issue(s) 0 Warning(s) [in 201 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.16.48:630][531]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.16.48:693][531]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.48:693][531]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.48:693][531]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.48:830][531]LogBlueprint: Warning: [Compiler TextRenderActor] [2342,98] Compile of TextRenderActor failed. 3 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.16.49:779][622]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.16.49:844][622]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.49:845][622]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.49:845][622]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.49:985][622]LogBlueprint: Warning: [Compiler TextRenderActor] [2344,14] Compile of TextRenderActor failed. 3 Fatal Issue(s) 0 Warning(s) [in 204 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.16.50:091][623]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.16.50:151][623]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.50:152][623]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.50:152][623]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.16.50:291][623]LogBlueprint: Warning: [Compiler TextRenderActor] [2344,44] Compile of TextRenderActor failed. 3 Fatal Issue(s) 0 Warning(s) [in 199 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.17.26:322][810]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.17.26:383][810]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.17.26:383][810]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.17.26:526][810]LogBlueprint: Warning: [Compiler TextRenderActor] [2380,68] Compile of TextRenderActor failed. 2 Fatal Issue(s) 0 Warning(s) [in 204 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.18.12:324][222]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.18.12:387][222]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.18.12:531][222]LogBlueprint: Warning: [Compiler TextRenderActor] [2426,68] Compile of TextRenderActor failed. 1 Fatal Issue(s) 0 Warning(s) [in 206 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.18.28:175][ 74]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor9C06CF5548F7CA5D046F8A967D0D67A8.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Blueprints/TextRenderActor.uasset'
+[2018.10.31-19.18.29:247][201]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.18.29:309][201]LogBlueprint: Error: [Compiler TextRenderActor] The current value of the ' Value ' pin is invalid: 'Value' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.10.31-19.18.29:453][201]LogBlueprint: Warning: [Compiler TextRenderActor] [2443,61] Compile of TextRenderActor failed. 1 Fatal Issue(s) 0 Warning(s) [in 204 ms] (/Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor)
+[2018.10.31-19.19.18:830][ 67]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.19.43:673][996]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.19.51:607][737]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor66828B1941FF30D19EB007B599CCFB1D.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Blueprints/TextRenderActor.uasset'
+[2018.10.31-19.19.54:969][ 50]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.19.54:976][ 50]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.20.03:592][ 72]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor
+[2018.10.31-19.23.31:837][529]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.23.32:673][580]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor1BDDE359477A212BE53973AE31A71AA5.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Blueprints/TextRenderActor.uasset'
+[2018.10.31-19.23.34:355][778]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.23.34:360][778]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.23.45:617][119]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor
+[2018.10.31-19.24.42:391][686]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor7A70126F490C9318870D728BE16DD426.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Blueprints/TextRenderActor.uasset'
+[2018.10.31-19.24.43:067][765]BlueprintLog: New page: Compile TextRenderActor
+[2018.10.31-19.24.43:938][820]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/TextRenderActor645369D443287E4DBF39CF928E72182E.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Blueprints/TextRenderActor.uasset'
+[2018.10.31-19.24.44:638][901]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.24.44:644][901]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.25.04:651][292]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor
+[2018.10.31-19.25.06:519][458]LogRenderer: Reallocating scene render targets to support 1528x712 Format 10 NumSamples 1 (Frame:1).
+[2018.10.31-19.25.16:676][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-19.25.27:200][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-19.25.59:597][541]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.25.59:601][541]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.26.08:524][599]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Widget.Widget
+[2018.10.31-19.28.06:782][263]LogEditorTransaction: Undo Remove Widget
+[2018.10.31-19.32.14:653][293]LogEditorTransaction: Undo Edit Bottom
+[2018.10.31-19.32.15:121][321]Cmd: TRANSACTION UNDO
+[2018.10.31-19.32.15:122][321]LogEditorTransaction: Undo Edit Right
+[2018.10.31-19.41.08:748][353]BlueprintLog: New page: Compile Widget
+[2018.10.31-19.41.27:709][514]LogSlate: Window 'Widget*' being destroyed
+[2018.10.31-19.41.27:714][514]LogSlate: Window 'Widget*' being destroyed
+[2018.10.31-19.41.39:179][884]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor
+[2018.10.31-19.41.55:289][759]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.41.55:295][759]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.43.48:062][195]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/ThirdPersonExampleMap_Auto44820F47B4082F30431288DA2883E49C9.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.10.31-19.43.48:065][195]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.162
+[2018.10.31-19.43.48:065][195]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.162
+[2018.10.31-19.43.48:069][195]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/Widget] ([1] browsable assets)...
+[2018.10.31-19.43.48:069][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Widget]
+[2018.10.31-19.43.48:096][195]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Widget_Auto4E667D95940FD141334342698CD7C80F0.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Autosaves/Game/Widgets/Widget_Auto4.uasset'
+[2018.10.31-19.43.48:097][195]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.10.31-19.43.53:111][795]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Widget.Widget
+[2018.10.31-19.46.37:058][725]BlueprintLog: New page: Compile Widget
+[2018.10.31-19.46.43:491][441]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.31-19.46.56:323][901]LogSlate: Window 'Widget*' being destroyed
+[2018.10.31-19.46.56:330][901]LogSlate: Window 'Widget*' being destroyed
+[2018.10.31-19.47.23:975][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.31-19.48.03:531][945]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/TextRenderActor.TextRenderActor
+[2018.10.31-19.48.44:858][692]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.48.44:863][692]LogSlate: Window 'TextRenderActor' being destroyed
+[2018.10.31-19.49.34:104][570]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-19.49.34:119][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.31-19.49.34:119][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-19.49.34:137][570]PIE: New page: PIE session: ThirdPersonExampleMap (31 okt. 2018 21:49:34)
+[2018.10.31-19.49.34:137][570]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.31-19.49.34:147][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010718s)
+[2018.10.31-19.49.34:148][570]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.31-19.49.34:148][570]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2018.10.31-19.49.34:148][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011477s)
+[2018.10.31-19.49.34:183][570]LogInit: XAudio2 using 'Luidsprekers (2- Strix DSP)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.31-19.49.34:191][570]LogInit: FAudioDevice initialized.
+[2018.10.31-19.49.34:236][570]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.31-19.49.34:240][570]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.31-20.49.34
+[2018.10.31-19.49.34:241][570]LogWorld: Bringing up level for play took: 0.002601
+[2018.10.31-19.49.34:272][570]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.10.31-19.49.34:273][570]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,839
+[2018.10.31-19.49.34:273][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.31-19.49.40:422][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-19.49.49:934][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-19.49.55:167][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-19.49.57:243][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.31-19.49.57:243][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-19.49.57:278][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-19.49.57:278][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.31-19.49.57:307][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-19.49.57:347][323]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.31-19.50.03:978][118]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2018.10.31-19.50.09:115][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-19.50.24:012][519]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Widget.Widget
+[2018.10.31-19.50.49:232][173]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.31-19.51.38:336][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Widget" FILE="../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset" SILENT=true
+[2018.10.31-19.51.38:363][978]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Widget19CD8F534445758763571C8932DBEE55.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset'
+[2018.10.31-19.51.39:796][149]BlueprintLog: New page: Compile Widget
+[2018.10.31-19.52.15:176][322]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.31-19.55.48:527][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Widget" FILE="../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset" SILENT=true
+[2018.10.31-19.55.48:556][243]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/WidgetF28FB6BD46B123127BC7CFA23356D521.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset'
+[2018.10.31-19.55.50:067][422]BlueprintLog: New page: Compile Widget
+[2018.10.31-19.55.50:083][422]LogBlueprint: Error: [Compiler Widget] The type of  Object  is undetermined.  Connect something to  Cast To TextRenderActor  to imply a specific type.
+[2018.10.31-19.55.50:083][422]LogBlueprint: Error: [Compiler Widget] The type of  Object  is undetermined.  Connect something to  Cast To TextRenderActor  to imply a specific type.
+[2018.10.31-19.55.50:083][422]LogBlueprint: Error: [Compiler Widget] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.10.31-19.55.50:084][422]LogBlueprint: Error: [Compiler Widget] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.10.31-19.55.50:117][422]LogBlueprint: Warning: [Compiler Widget] [4684,27] Compile of Widget failed. 4 Fatal Issue(s) 0 Warning(s) [in 49 ms] (/Game/Widgets/Widget.Widget)
+[2018.10.31-19.56.19:774][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Widget" FILE="../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset" SILENT=true
+[2018.10.31-19.56.19:799][891]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/WidgetFC2CC12B4E4999B38B2D909B577A6C96.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset'
+[2018.10.31-19.56.20:705][998]BlueprintLog: New page: Compile Widget
+[2018.10.31-19.56.24:599][450]LogSlate: Window 'Widget' being destroyed
+[2018.10.31-19.56.24:603][450]LogSlate: Window 'Widget' being destroyed
+[2018.10.31-19.56.40:647][368]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Widget.Widget
+[2018.10.31-19.57.29:015][731]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.31-19.59.19:522][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Widget" FILE="../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset" SILENT=true
+[2018.10.31-19.59.19:558][892]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/WidgetF80A44134B634F5AA4FAD7BC8D1D4A1D.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset'
+[2018.10.31-19.59.20:205][969]BlueprintLog: New page: Compile Widget
+[2018.10.31-19.59.49:530][424]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/ThirdPersonExampleMap_Auto566702247412BF469BA51A5AE80AD5A6C.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.10.31-19.59.49:534][424]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.163
+[2018.10.31-19.59.49:534][424]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.163
+[2018.10.31-19.59.49:747][448]Cmd: EDIT COPY
+[2018.10.31-20.00.32:828][582]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetAllActorsOfClass' [Kan element niet vinden.]
+[2018.10.31-20.01.16:995][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Widget" FILE="../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset" SILENT=true
+[2018.10.31-20.01.17:025][837]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/WidgetA5F2061B47D4E17CC9771CB08AB29C4B.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset'
+[2018.10.31-20.01.17:473][890]BlueprintLog: New page: Compile Widget
+[2018.10.31-20.01.18:654][ 22]LogSlate: Window 'Widget' being destroyed
+[2018.10.31-20.01.18:658][ 22]LogSlate: Window 'Widget' being destroyed
+[2018.10.31-20.01.25:305][815]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Widget.Widget
+[2018.10.31-20.02.54:981][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Widget" FILE="../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset" SILENT=true
+[2018.10.31-20.02.55:014][136]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Widget0C881FA9466ABCB441B3FBAF2C785CBD.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset'
+[2018.10.31-20.02.56:001][254]BlueprintLog: New page: Compile Widget
+[2018.10.31-20.04.43:983][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Widget" FILE="../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset" SILENT=true
+[2018.10.31-20.04.44:027][680]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Widget87B08EE84F60F3F321DBF1B17EF0A159.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset'
+[2018.10.31-20.04.45:202][820]BlueprintLog: New page: Compile Widget
+[2018.10.31-20.04.48:012][147]LogSlate: Window 'Widget' being destroyed
+[2018.10.31-20.04.48:016][147]LogSlate: Window 'Widget' being destroyed
+[2018.10.31-20.04.52:165][640]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Widgets/Widget.Widget
+[2018.10.31-20.05.08:845][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Widget" FILE="../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset" SILENT=true
+[2018.10.31-20.05.08:885][ 66]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/Widget95B63F204A43B59C5090248518E215F0.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/Widgets/Widget.uasset'
+[2018.10.31-20.05.09:645][131]BlueprintLog: New page: Compile Widget
+[2018.10.31-20.05.12:264][341]LogSlate: Window 'Widget' being destroyed
+[2018.10.31-20.05.12:271][341]LogSlate: Window 'Widget' being destroyed
+[2018.10.31-20.05.13:888][531]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.31-20.05.13:905][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.31-20.05.13:905][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.31-20.05.13:905][531]PIE: New page: PIE session: ThirdPersonExampleMap (31 okt. 2018 22:05:13)
+[2018.10.31-20.05.13:905][531]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.31-20.05.13:914][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009069s)
+[2018.10.31-20.05.13:914][531]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.31-20.05.13:915][531]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2018.10.31-20.05.13:915][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009753s)
+[2018.10.31-20.05.13:951][531]LogInit: XAudio2 using 'Luidsprekers (2- Strix DSP)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.10.31-20.05.13:959][531]LogInit: FAudioDevice initialized.
+[2018.10.31-20.05.13:989][531]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.31-20.05.13:991][531]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.31-21.05.13
+[2018.10.31-20.05.13:991][531]LogWorld: Bringing up level for play took: 0.001291
+[2018.10.31-20.05.14:003][531]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,891
+[2018.10.31-20.05.14:004][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.31-20.05.32:365][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-20.05.50:902][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.31-20.05.50:903][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-20.05.50:936][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.31-20.05.50:937][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.31-20.05.50:962][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.31-20.05.51:009][958]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.10.31-20.05.54:068][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.31-20.05.54:381][341]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/ThirdPersonExampleMap5431388E4A3593335290B9AB94EB69F1.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.31-20.05.54:568][341]LogSavePackage: Moving '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Saved/ThirdPersonExampleMap_BuiltData5757F65D4046330BE09080A114DB8E44.tmp' to '../../../../../../Users/Jerry/Documents/Unreal Projects/DialogSystem/Dialogue/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
